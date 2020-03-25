@@ -1,4 +1,4 @@
-> OPENICU.org
+> OPENICU
 
 > autor: Bartek Ł.
 
