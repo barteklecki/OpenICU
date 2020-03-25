@@ -23,11 +23,11 @@ Celem kolejnych wersji rozwojowych byłoby w pierwszej kolejności budowanie jes
 
 > Plan dla wersji 1 
 
-Etap 1: promocja, planowanie i projektowanie (także selekcja istniejących rozwiązań)
-Etap 2: prototypowanie i intensywne testy 
-Etap 4: akredytacja / dopuszczenie / certyfikat
-Etap 5: masowa produkcja rozproszona 
-Etap 6: zbieranie danych oraz iteracja kolejnej wersji jako ulepszenia
+- Etap 1: promocja, planowanie i projektowanie (także selekcja istniejących rozwiązań)
+- Etap 2: prototypowanie i intensywne testy 
+- Etap 4: akredytacja / dopuszczenie / certyfikat
+- Etap 5: masowa produkcja rozproszona 
+- Etap 6: zbieranie danych oraz iteracja kolejnej wersji jako ulepszenia
 
 
 > Wyzwania 
