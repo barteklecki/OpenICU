@@ -1,4 +1,5 @@
 > OPENICU.org
+
 > autor: Bartek Ł.
 
 > W kilku zdaniach / Abstrakt
