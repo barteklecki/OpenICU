@@ -12,12 +12,12 @@ Sytuacja ostatnich miesięcy i pandemii COVID-19 pokazała jak wielkim zagrożen
 Cel: zbudowanie “SORu w walizce” przeznaczonego dla jednego łóżka z podzespołów ogólnodostępnych, niedrogich i umożliwiających produkcję przy pomocy stosunkowo prostych narzędzi ale też produkcję zautomatyzowaną.
 
 Na zastaw w wersji 1 składałoby się:
-EKG 3-punktowe (moduł Open Hardware) z bramkami dla innych czujników
-pulsooksymetr napalcowy
-naskórny czujnik temperatury ciała
-pendrive z oprogramowaniem Linux zmieniający bez instalowania dowolny komputer PC w tzw. monitor pacjenta / kardiomonitor (prekonfiguracja)
-moduł automatycznego nieinwazyjnego pomiaru ciśnienia tętniczego (opcja?)
-awaryjny respirator low-cost (TYLKO w sytuacji triażu) m.in. z funkcją “oddychania z pacjentem” (tryb A/C, PSV - brak potrzeby paraliżowania mięśni), wyświetlaniem (PC) i regulacją podstawowych parametrów, alarmami dla personelu, współpracujący z różnymi źródłami powietrza i tlenu
+- EKG 3-punktowe (moduł Open Hardware) z bramkami dla innych czujników
+- pulsooksymetr napalcowy
+- naskórny czujnik temperatury ciała
+- pendrive z oprogramowaniem Linux zmieniający bez instalowania dowolny komputer PC w tzw. monitor pacjenta / kardiomonitor (prekonfiguracja)
+- moduł automatycznego nieinwazyjnego pomiaru ciśnienia tętniczego (opcja?)
+- awaryjny respirator low-cost (TYLKO w sytuacji triażu) m.in. z funkcją “oddychania z pacjentem” (tryb A/C, PSV - brak potrzeby paraliżowania mięśni), wyświetlaniem (PC) i regulacją podstawowych parametrów, alarmami dla personelu, współpracujący z różnymi źródłami powietrza i tlenu
 
 Celem kolejnych wersji rozwojowych byłoby w pierwszej kolejności budowanie jeszcze większej niezawodności i łatwości obsługi bazując na doświadczeniach poprzednich. Tylko pełne wersji (1,2,3,.. itd) byłyby wypuszczane do produkcji jako dopracowanie.
 
