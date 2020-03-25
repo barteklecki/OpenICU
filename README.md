@@ -42,12 +42,14 @@ rozwój kolejnych “wyższych warstw projektu” (support, E-karta pacjęta, re
 > Istniejące projekty Open Source / Open Hardware
 
 EKG (ECG)
+
 https://www.instructables.com/id/DIY-ECG-EKG-Portable-Heart-Monitor/
 https://www.swharden.com/wp/category/diy-ecg-home-made-electrocardiogram/
 https://www.youtube.com/watch?v=oHcYBmxfK28&feature=emb_logo
 https://www.mccauslandcenter.sc.edu/crnl/open-source-eegecgemg
 
 Respirator (ventilator)
+
 https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf
 https://github.com/covid-response-projects/covid-respirator
 https://hackaday.io/project/170189-pandemic-pressure-control-ventilatorb
@@ -60,17 +62,20 @@ https://www.gofundme.com/f/open-source-pandemic-ventilator
 https://www.youtube.com/watch?v=5AAjVFM0t0o
 
 Pulsoksymetr
+
 https://hackaday.com/2010/05/02/diy-pulse-oximeter/
 https://www.swharden.com/wp/2013-04-14-simple-diy-ecg-pulse-oximeter-version-2/
 http://www.openbiomedical.org/open-source-pulse-oximeter/
 https://github.com/GliaX/oximeter
 
 Monitor pacjenta (kilka komponentów zintegrowanych)
+
 https://www.healthysimulation.com/3032/downloadable-vital-sign-simulator-patient-monitor/
 https://www.microchip.com/wwwAppNotes/AppNotes.aspx?appnote=en607462
 
 
 > Instytucje i fundacje które mogą nas wespierać (sojusznicy) 
+
 http://www.biomech.pwr.wroc.pl/index.php/sklad-osobowy/
 http://www.brain-it.eu/intensiveShare/
 https://www.projectopenair.org/
