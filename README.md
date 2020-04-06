@@ -5,6 +5,8 @@ The situation of recent months and the COVID-19 pandemic has shown how great a t
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=barteklecki%40o2.pl&item_name=support+OpenICU+project&currency_code=EUR&source=url)
 
+
+
 > TECH-TALK
 
 Goal: to design and build a low-cost "ICU in a suitcase" from standard, commercial of the shelf and widely available components, inexpensive and enabling production using relatively simple tools, but also automated production. 
@@ -27,4 +29,4 @@ Emergency ventilator principle:
 
 
 
-autor: Bartek Ł.
+author: Bartek Ł.
