@@ -10,12 +10,19 @@ The situation of recent months and the COVID-19 pandemic has shown how great a t
 > TECH-TALK
 
 Goal: to design and build a low-cost "ICU in a suitcase" from standard, commercial of the shelf and widely available components, inexpensive and enabling production using relatively simple tools, but also automated production. 
+
 V1 Kit incluse:
+
 3-point ECG (Open Hardware module) with gates for other sensors
+
 finger pulse oximeter (SiO2) sensor
+
 body temperature sensor
+
 pendrive with Linux software that changes any PC in the so-called patient monitor / cardiac monitor (no installation needed) and doubles as a doc-friendly interface to set ventilator parameters
+
 emergency low-cost ventilator (ONLY for “right for try” situation) incl. with the function of smart control and "breathing with the patient" (A/C mode, PSV - no need for muscle paralysis, CPAP), alarms for staff, working using “dirty” and common compressed air sources to create clean breaths. 
+
 
 
 Open-ICU - building blocks:
