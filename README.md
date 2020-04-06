@@ -11,7 +11,7 @@ The situation of recent months and the COVID-19 pandemic has shown how great a t
 
 **Goal:** to design and build a low-cost "ICU in a suitcase" from standard, commercial of the shelf and widely available components, inexpensive and enabling production using relatively simple tools, but also automated production. 
 
-V1 Kit include:
+### V1 Kit include:
 - 3-point / 5-point ECG (Open Hardware module) with gates for other sensors
 - finger pulse oximeter (SpO2) sensor
 - body temperature sensor 
@@ -24,7 +24,7 @@ V1 Kit include:
 ## Emergency ventilator principle:
 ![Alt text](https://github.com/barteklecki/OpenICU/blob/master/Ventillo_mechanics_gif.gif?raw=true)
 
-## 3D model 
+## 3D concept model 
 ![Alt text](https://github.com/barteklecki/OpenICU/blob/master/Ventillo_3d_model_gif.gif?raw=true)
 
 
@@ -37,12 +37,12 @@ We are a group of friends, and in the professional life we are engineers (automa
 That's right, there are currently many great ventilator designs created by enthusiasts around the world. However, in our opinion, there is a need and space for a tool to fit specifically to combat COVID-19. Treatment is complicated, it requires constant heart and blood oxidation diagnostics. Additionally construction of the ventilator should allow precise changes and control of parameters. We would like to understand what is particularly required in the treatment of this disease and provide the right tools for doctors in one cheap and as possibly reliable Open Hardware package.
 
 ### The respiratory device is powered by compressed air - why?
-Although the electric motor as a actuator is a solution used in many professional respirators, creating a very reliable electro-mechanical system from widely available components is a big challenge. On the other hand, pneumatic systems such as actuators, solenoid valves and connection fittings are extremely popular, available from many sources and standardized. Pneumatic cylinders, e.g. in factories, perform millions of cycles without fail, which is crucial for this device. Since the compressed air is not used directly to vent a patient, standard "dirty" piston or screw air compressors can be used, which can be found in almost every factory. In the scenario where we have a field hospital consisting of hundreds of beds, a set of standard air compressors can work reliably for months or years, and in the event of a power outage, the pressure in tanks serve as a support system for the entire system, because compressed air consumption is low.
+Although the electric motor as a actuator is a solution used in many professional respirators, creating a very reliable electro-mechanical system from widely available components is a big challenge. On the other hand, pneumatic systems such as actuators, solenoid valves and connection fittings are extremely popular, available from many sources and standardized. Pneumatic cylinders, e.g. in factories, perform millions of cycles without fail, which is crucial for this device. Since the compressed air is not used directly to vent a patient, standard "dirty" piston or screw air compressors can be used, which can be found in almost every factory. In the scenario where we have a field hospital consisting of hundreds of beds, a set of standard air compressors can work reliably for months or years, and in the event of a power outage, the pressure in tanks serve as a backup for the entire system, because compressed air consumption is low.
 
-### Why is the electrical system in 12V?
-The idea behind it is that you can use any car battery (AGM, all maintenance-free) for emergency power supply, and any laptop power supply as the AC adapter. This significantly reduces costs and is publicly available.
+### Why is the electrical system 12V?
+The idea behind it is that you can use any car battery (AGM, all maintenance-free) for emergency power supply, and any laptop power supply as the AC adapter. This significantly reduces costs and is widely available.
 
-### Is any oxygen source or generator part of the project?
+### Is any oxygen source or generator part of this project?
 No, we assume that oxygen will be supplied from the existing installation. In addition, other projects are underway, which aim to e.g. design open-source oxygen generators
 
 author: Bartek Ł., V.0.23/4-2020
