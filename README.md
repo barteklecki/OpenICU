@@ -5,7 +5,7 @@ The situation of recent months and the COVID-19 pandemic has shown how great a t
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=barteklecki%40o2.pl&item_name=support+OpenICU+project&currency_code=EUR&source=url)
 
-** _ Disclamer: the devices and systems shown are intended for educational and training purposes only. This is NOT certified medical equipment. The possibility of using equipment in a crisis situation can be regulated by law - please refer to local legislation. Please proceed with caution! _ **
+> _**Disclamer: the devices and systems shown are intended for educational and training purposes only. This is NOT certified medical equipment. The possibility of using equipment in a crisis situation can be regulated by law - please refer to local legislation. Please proceed with caution!**_
 
 ## TECH-TALK
 
