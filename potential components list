@@ -1,0 +1,82 @@
+# List of perspective components and ICs datasheets, aplication notes and med-wikis
+
+### ECG
+https://www.analog.com/media/en/technical-documentation/data-sheets/AD8232.pdf
+https://www.analog.com/media/en/technical-documentation/data-sheets/AD8233.pdf
+https://www.analog.com/media/en/technical-documentation/data-sheets/ADAS1000_1000-1_1000-2.pdf
+https://www.ti.com/lit/ds/symlink/ads1298.pdf
+TI ADS1293 https://www.ti.com/lit/ds/symlink/ads1293.pdf
+TI ADS1198 https://www.ti.com/lit/ds/symlink/ads1198.pdf
+	
+### Pulse oximeter sensor (SpO2)
+https://www.analog.com/media/en/technical-documentation/data-sheets/ADPD144RI.pdf
+https://datasheets.maximintegrated.com/en/ds/MAX30100.pdf
+https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf
+https://www.analog.com/en/products/interface-isolation/isolation/i2c-isolators.html
+http://www.vishay.com/docs/84901/opticalisolatorfoti2cvussystem.pdf
+https://www.sstsensing.com/wp-content/uploads/2016/05/AN-0043_rev5_Zirconia-Sensor-Operating-Principle-and-Construction-Guide.pdf
+https://www.systechillinois.com/en/support/technologies/paramagnetic-cells
+http://en.gassensor.com.cn/productDetail.aspx?typeid=29&categoryId=39&item=220&gclid=CjwKCAjw4KD0BRBUEiwA7MFNTUeUrblomM6sB-kKLvKa4MvTC96Vm-PYAtysoIdzYAE9e6b26w6ZWRoCXt8QAvD_BwE
+https://www.anandic.com/en/C3-Training-Center/Parameter-Technology/Paramagnetic-O2/page40752.htm
+
+### Exhausted CO2 concentration sensor (FiCO2)
+???
+
+### Air mass flow sensor / Differential pressure flow sensor
+??? - automotive engine components?
+https://www.alibaba.com/product-detail/medical-flow-sensor_60810144350.html
+https://www.winsen-sensor.com/sensors/gas-flow-sensor/f1031.html
+https://www.indiamart.com/proddetail/ventilator-flow-sensor-20408566112.html
+http://www.s2central.com/ds_G70.html
+https://pl.aliexpress.com/item/4000051611321.html?src=google&src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&&albagn=888888&albcp=9594049142&albag=100017018638&trgt=296904913880&crea=pl4000051611321&netw=u&device=c&albpg=296904913880&albpd=pl4000051611321&gclid=CjwKCAjwguzzBRBiEiwAgU0FTxuQ9PiNrwjplZ7wAo8JrYDZymwdFbNw-3ugXe5y5lOd6ZVyRDfa6BoCAgMQAvD_BwE&gclsrc=aw.ds
+https://www.tsi.com/oem-%E8%B4%A8%E9%87%8F%E6%B5%81%E9%87%8F%E4%BC%A0%E6%84%9F%E5%99%A8-840201/
+
+### Air pressure sensor
+(MP3V5010DP)https://www.nxp.com/products/sensors/pressure-sensors/differential-gauge-up-to-10-kpa/0-to-10kpa-differential-and-gauge-integrated-pressure-sensor:MPXx5010?tab=Buy_Parametric_Tab&amp;fromSearch=false# 
+https://www.nxp.com/docs/en/data-sheet/MPXV5004G.pdf
+
+### Blood pressure sensor (Non Invasive Blood pressure monitoring / CNIBP)
+(ADPD188)https://www.analog.com/media/en/technical-documentation/data-sheets/adpd188gg.pdf
+
+
+### Human body thermometer
+http://www.precisionntcthermistor.com/sale-10687146-highly-accurate-medical-temperature-sensor-for-skin-temperature-monitoring.html
+https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
+https://www.ti.com/product/LMT70?qgpn=lmt70
+https://www.ti.com/lit/ml/mpds216e/mpds216e.pdf
+https://www.ti.com/lit/ds/symlink/tmp116.pdf
+https://www.ti.com/lit/ds/symlink/tmp117.pdf
+https://datasheets.maximintegrated.com/en/ds/MAX30205.pdf
+https://datasheets.maximintegrated.com/en/ds/MAX30208.pdf
+https://www.sparkfun.com/products/retired/15413
+
+### Safety, redundancy
+https://www.ti.com/lit/ds/symlink/esds302.pdf
+https://www.ti.com/product/TCA6424A/samplebuy
+https://www.ti.com/lit/ds/symlink/iso1540.pdf
+https://www.maximintegrated.com/en/products/power/battery-management/MAX1909.html
+https://www.epanorama.net/circuits/rspower.html
+
+### Pneumatic actuators
+https://silowniki-pneumatyczne.pl/wp-content/uploads/2015/10/Silowniki-nierdzewne-serii-90-camozzi.pdf
+
+### Others
+https://www.ti.com/lit/ug/tidu875/tidu875.pdf
+https://www.ti.com/lit/an/slaa655/slaa655.pdf
+https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?simulive=y&eventid=1659383&sessionid=1&username=&partnerref=ADI_Webcast&format=fhaudio&mobile=&flashsupportedmobiledevice=&helpcenter=&key=BDB17327A7EB93F9ABD47E9B3AC07A61&newConsole=false&nxChe=false&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=278073615&contenttype=A&mediametricsessionid=233063965&mediametricid=2371673&usercd=278073615&mode=launch (AD wykład o pomiarach MED)
+https://www.ti.com/solution/multiparameter-patient-monitor?variantid=26674&subsystemid=26681
+https://www.reichelt.com/pl/pl/arduino-grove-gas-sensor-o2-me-o2-d20-grv-gas-sens-o2-p191303.html?PROVID=2788&gclid=CjwKCAjw3-bzBRBhEiwAgnnLCpFZOORTPeqJDMjxwOnIbO3mnECEYuR9l-g_Vxf_vk0R4GpNXWct6RoCCtkQAvD_BwE&&r=1
+https://medicaldepot.pl/uklad-oddechowy-dwururowy-dla-doroslych-do-respiratora-rozciagliwy-383248847.html
+
+### Edu
+MIT https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf
+https://vam.anest.ufl.edu/simulations/simulationportfolio.php
+Code Life Ventillator Challenge
+https://medicaldepot.pl/uklad-oddechowy-dwururowy-dla-doroslych-do-respiratora-rozciagliwy-383248847.html
+https://en.wikipedia.org/wiki/Oxygen_sensor
+https://sensing.honeywell.com/honeywell-sensing-sensors-switches-oxygen-concentrators-application-note-009047-5-en.pdf
+https://www.manuelsweb.com/IBW.htm
+http://www.omron-ap.com/service_support/FAQ/FAQ01238/index.asp
+https://www.ncbi.nlm.nih.gov/pubmed/25158924
+https://www.maximintegrated.com/en/markets/healthcare/diagnostic-therapy.html
+
