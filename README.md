@@ -15,7 +15,7 @@ V1 Kit incluse:
 
 3-point ECG (Open Hardware module) with gates for other sensors
 
-finger pulse oximeter (SiO2) sensor
+finger pulse oximeter (SpO2) sensor
 
 body temperature sensor
 
