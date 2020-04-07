@@ -46,4 +46,5 @@ The idea behind it is that you can use any car battery (AGM, all maintenance-fre
 ### Is any oxygen source or generator part of this project?
 No, we assume that oxygen will be supplied from the existing installation. In addition, other projects are underway, which aim to e.g. design open-source oxygen generators
 
-author: Bartek Ł., V.0.23/4-2020
+_author: Bartek Ł., V.0.23/4-2020
+contact: barteklecki (a) o2.pl_
